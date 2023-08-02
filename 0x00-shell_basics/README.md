@@ -4,7 +4,7 @@ A compilation, describing the action of each script for the system engineering c
 Executes a script that prints the absolute path for the current working directory.
 
 ### [1-listit](1-listit)
-Display the contents list of your current directory.
+Displays the contents list of your current directory.
 
 ### [2-bring_me_home](2-bring_me_home)
 Executes a script that changes the working directory to the user’s home directory.
@@ -13,7 +13,10 @@ Executes a script that changes the working directory to the user’s home direct
 Display current directory contents in a long format
 
 ### [4-listmorefiles](4-listmorefiles)
-Display current directory contents, including hidden files (starting with .).
+Displays current directory contents, including hidden files (starting with .).
 
 ### [5-listfilesdigitonly](5-listfilesdigitonly)
-Display current directory contents.
+Displays current directory contents.
+
+### [6-firstdirectory](6-firstdirectory)
+Creates a script that creates a directory named my_first_directory in the /tmp/ directory.
